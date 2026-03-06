@@ -107,3 +107,4 @@ if __name__ == "__main__":
     app = SmartCityGUI(root)
     # Start the UI event loop
     root.mainloop()
+
