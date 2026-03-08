@@ -10,7 +10,7 @@
 ## 👥 Team Members
 * **LIN Zhi Hong** (ID: 13771888)
 * **LIN Yu Hao** (ID: 13721930)
-* **[组员名字]** (ID: [组员学号])
+* **CHEN Yi Jun** (ID: 13619610)
 
 *(Note: Detailed declaration of contribution will be attached in the final PDF reports.)*
 
@@ -66,5 +66,6 @@ The `NetworkManager` class utilizes a Priority Queue (`heapq`) to execute Dijkst
  ┣ 📜 sensor_node.py      # OOP modeling, ADTs, and sensor logic
 
  ┗ 📜 README.md           # Documentation
+
 
 
