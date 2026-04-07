@@ -101,7 +101,7 @@ Welcome to the **HK Smart Ambulance Navigator**. Click the image below to watch 
 
 <div align="center">
   <a href="https://youtu.be/5L2XIRg7pQA" target="_blank">
-    <img src="https://img.youtube.com/vi/5L2XIRg7pQA/maxresdefault.jpg" alt="HK Ambulance Navigator Demo Video" width="800">
+    <img src="./demo_cover.png" alt="Demo Video Cover" width="800">
   </a>
 </div>
 
