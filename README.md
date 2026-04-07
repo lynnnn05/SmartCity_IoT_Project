@@ -14,7 +14,7 @@ An integrated software solution designed to modernize public healthcare logistic
 * [📂 Repository Structure](#repository-structure)
 * [🚀 Task 1: Smart Hospital Triage & Queue Scheduling Engine](#task-1-smart-hospital-triage--queue-scheduling-engine)
 * [🚑 Task 2: Smart Ambulance Navigator](#task-2-smart-ambulance-navigator-self-study-algorithm)
-* [💻 Quick Start & Usage](#quick-start--user guide)
+* [💻 Quick Start & Usage](#quick-start--user-guide)
 * [📜 Academic Declaration](#academic-declaration)
 ---
 
